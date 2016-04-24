@@ -524,3 +524,12 @@
 	icon_state = "doakes_polo"
 	item_state = "doakes_polo_s"
 	worn_state = "doakes_polo"
+
+/obj/item/clothing/under/maid
+	name = "maid uniform"
+	desc = "You have the urge to put this on and act submissively"
+	icon_state = "meido"
+	item_state = "meido"
+	worn_state = "meido"
+	body_parts_covered = UPPER_TORSO|LOWER_TORSO
+
